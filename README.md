@@ -1,38 +1,15 @@
-# Hotel-Booking-SEM-campaign
-# Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+# Hotel Booking SEM Campaign
+**What is Search Engine Marketing (SEM)**
 
-## Installation
+Search Engine Marketing(SEM) is one of a online marketing method by using search engine that involves promoting the webstie to increase brand visibility in search engine result through advertisement. People enter keywords of what they looking for certain products or services, SEM provides a opportunity for advertisement to appear alongside results for those search keywords.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+The objective is to increase booking for hotels in Thailand through a targeted and effective Search Engine Marketing(SEM) Campaigns via Google Ads. There are two components including:
 
-```bash
-pip install foobar
-```
+[1. Generate keywords](https://linktodocumentation)             
+Looking at the different ways in which someone can express interest in the product that is provided by keyword.     
+For example keywords = 'booking','discount','hotels',and etc.
 
-## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+[2. Create Google Ads Campaign](https://linktodocumentation)
+Create several advertising by dynamically inserting words
