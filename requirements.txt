@@ -1,0 +1,3 @@
+pandas
+advertools
+beautifulsoup4
