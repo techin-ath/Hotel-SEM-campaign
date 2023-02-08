@@ -13,3 +13,9 @@ For example keywords = 'booking','discount','hotels',and etc.
 
 [2. Create Google Ads Campaign](https://linktodocumentation)
 Create several advertising by dynamically inserting words
+
+## Installation
+```bash
+  pip install pandas
+  pip install advertools
+```
