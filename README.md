@@ -18,4 +18,5 @@ Create several advertising by dynamically inserting words
 ```bash
   pip install pandas
   pip install advertools
+  pip install beautifulsoup4
 ```
